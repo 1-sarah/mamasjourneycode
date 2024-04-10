@@ -8,5 +8,5 @@ Ihr Wunsch: Daten zur Schwangerschaft jederzeit abrufbar zu haben, Zusatzinforma
 # Wireframes für mamasjourney
 Da unsere App für Desktop sowie für Mobile genutzt werden soll, haben wir zwei verschiedene Wireframes erstellt.
 
-![Wireframe Desktop](mamasjourneycode/Bilder/IMG_3181) ![Wireframe Mobile](mamasjourneycode/Bilder/IMG_3180)
+![Wireframe Desktop](Bilder/IMG_3181) ![Wireframe Mobile](Bilder/IMG_3180)
 
