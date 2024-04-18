@@ -15,7 +15,7 @@ Zeitstrahl noch nach einzelnen Trimestern auftrennen. Sie hat noch die grafische
 #### Neue Probleme?
 Wie kann man den aktuellen Standpunkt im Zeitstrahl darstellen?
 
-Feedback
+
 ![IMG_3297 (1)](https://github.com/1-sarah/mamasjourneycode/assets/162503746/66717d53-8ae0-442f-8b7b-aeb6a2eab927)
 
 
