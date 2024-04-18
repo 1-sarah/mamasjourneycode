@@ -12,3 +12,4 @@ Deadline nicht sofort erkannt, was es sein soll, die Nutzerin dachte, dabei hand
 #### Neue Ideen?
 Zeitstrahl noch nach einzelnen Trimestern auftrennen. Sie hat noch die grafische Darstellung von Gewicht, Blutwerte, etc. speziell erwähnt.
 #### Neue Probleme?
+Wie kann man den aktuellen Standpunkt im Zeitstrahl darstellen?
