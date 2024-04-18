@@ -13,3 +13,7 @@ Deadline nicht sofort erkannt, was es sein soll, die Nutzerin dachte, dabei hand
 Zeitstrahl noch nach einzelnen Trimestern auftrennen. Sie hat noch die grafische Darstellung von Gewicht, Blutwerte, etc. speziell erwähnt.
 #### Neue Probleme?
 Wie kann man den aktuellen Standpunkt im Zeitstrahl darstellen?
+
+Feedback
+[informatik Entwurf mit Feedback 2024-04-18 18_06_46.pdf](https://github.com/1-sarah/mamasjourneycode/files/15028962/informatik.Entwurf.mit.Feedback.2024-04-18.18_06_46.pdf)
+
