@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    mama1:
+      email: mama1@a.com
+      name: Mama 1
+      password: abc
+    mama2:
+      email: mama2@a.com
+      name: Mama 2
+      password: def
+cookie:
+  expiry_days: 30
+  key: fsdahgreghdsfahsahgdsafsda
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - fdsafsa@a.com
