@@ -17,8 +17,7 @@ from github_contents import GithubContents
 st.set_page_config(page_title="mamasjourney", page_icon=':ship:', layout="wide",)
 
 # Verbindung zu GitHub initialisieren
-if 'github' not in st.session_state:
-      st.session_state.github = GithubContents(
+github = GithubContents(
           st.secrets["github"]["owner"],
           st.secrets["github"]["repo"],
           st.secrets["github"]["token"])
