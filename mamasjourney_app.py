@@ -8,7 +8,7 @@ from streamlit_authenticator.utilities.exceptions import (CredentialsError,
                                                           RegisterError,
                                                           ResetError,
                                                           UpdateError) 
-from streamlit_timeline import st_timeline
+from streamlit_timeline import timeline
 import pandas as pd
 from datetime import datetime, timedelta, date
 from github_contents import GithubContents
@@ -81,7 +81,7 @@ if authentication_status:
             st.write("Voraussichtlicher Geburtstermin:", due_date)
             timeline_items = create_timeline_items(last_period_date)
             st.subheader('Schwangerschafts-Timeline')
-            st_timeline(timeline_items, groups=[], options={}, height='250px')
+            timeline(timeline_items, height=250)
         st.header('Mama')
         st.write('Gewicht')
         mama_weight_date = st.date_input("Datum", value=datetime.today(), min_value=last_period_date, max_value=datetime.today(), format="YYYY/MM/DD")
@@ -227,9 +227,7 @@ if authentication_status:
             st.write("Voraussichtlicher Geburtstermin:", due_date_mama2)
             timeline_items = create_timeline_items_mama2(last_period_date_mama2)
             st.subheader('Schwangerschafts-Timeline')
-            st_timeline = timeline(timeline_items, groups=[], options={}, height='250px')
-            st.subheader('Ausgewählte Woche')
-            st.write(timeline)
+            timeline = timeline(timeline_items,height=250)
         st.header('Mama')
         st.write('Gewicht')
         mama_weight_date = st.date_input("Datum", value=datetime.today(), min_value=last_period_date_mama2, max_value=datetime.today(), format="YYYY/MM/DD")
