@@ -2,3 +2,4 @@ streamlit
 panda
 pyyaml
 streamlit_authenticator
+streamlit_timeline
