@@ -2,5 +2,4 @@ streamlit
 panda
 pyyaml
 streamlit_authenticator
-streamlit-vis-timeline
 streamlit-timeline
