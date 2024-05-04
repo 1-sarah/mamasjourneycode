@@ -17,7 +17,7 @@ from github_contents import GithubContents
 st.set_page_config(page_title="mamasjourney", page_icon=':ship:', layout="wide",)
 
 # Verbindung zu GitHub initialisieren
-github = GithubContents("ratnasha", "FirstApp-data", "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")
+github = GithubContents("1-sarah", "mamasjourneydata", "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")
 
 with open('./config.yaml') as file:
     config = yaml.load(file, Loader=SafeLoader)
